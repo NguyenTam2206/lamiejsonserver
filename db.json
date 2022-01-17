@@ -1,11 +1,9 @@
 {
-  "posts": [
+  "result": [
     {
-      "id": 1,
-      "title": "hello"
+      "id": "16/01/2022",
+      "in": 400000,
+      "out" : 100000
     }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  ]
 }
